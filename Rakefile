@@ -416,7 +416,7 @@ multitask :push do
 end
 
 # TODO: Need to hook this variable into configurator
-s3_bucket = "example.com"
+s3_bucket = "www.sprucestreetgamers.com"
 
 desc "Configure Amazon S3 for website hosting"
 task :s3_init do

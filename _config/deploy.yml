@@ -3,4 +3,6 @@
 #      Deployment Config     #
 # -------------------------- #
 
-deploy_method: rsync
+deploy_method: s3
+s3_bucket: "www.sprucestreetgamers.com"
+
