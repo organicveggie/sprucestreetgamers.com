@@ -16,3 +16,10 @@ footer: true
 
 * [Faerun](/images/faerun_map.jpg)
 * [Moonsea](/images/moonsea_map.jpg)
+
+## Posters
+
+* [Gamemaster](/images/posters/gamemaster.jpg)
+* [Natural 20](/images/posters/natural-20.jpg)
+* [Trust](/images/posters/trust.jpg)
+* [Wizards Kick Ass](/images/posters/wizards.jpg)
