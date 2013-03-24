@@ -7,9 +7,9 @@ sharing: true
 footer: true
 ---
 ### People
-* Marlan – the tailor
+* [Marlan](/people/marlan.html) – the tailor
 * [Jaroo Ashstaff](/people/jaroo_ashstaff.html) – runs the Grove
-* Tifalius – village elder
-* Gowron – carpenter. Currently building a chest.
+* [Tifalius](/people/tifalius.html) – village elder
+* [Gowron](/people/gowron.html) – carpenter.
 * [Ostler Gundigoot](/people/ostler_gundigoot.html) – proprietor of Inn of the Welcome Wench
 * [Brother Smythe](/people/brother_smythe.html) – smith
