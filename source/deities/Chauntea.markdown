@@ -9,10 +9,9 @@ footer: true
 # The Great Mother
 ## Lawful Good Greater Goddess
 
-{% img right /images/Chauntea.jpg %}
-
-### Chauntea
 Chauntea is among the oldest of the deities, having been present at the creation of Abeir-Toril, infusing the twin worlds with the essence of life. She holds sway not so much over the natural world, but over the way in which sentient mortals interact with the world.
+
+{% img right /images/Chauntea.jpg %}
 
 The Great Mother is revered by any who depend on the land for their livelihood. A kindly mistress, she ensures healthy harvests to those who treat the tilled earth with the respect she demands.
 
