@@ -64,8 +64,8 @@ Technically, we have two sets of deities: the deities outlined in the Player’s
 ### Evil
 
 ### Elemental Chaos
-* [Akadi](http://forgottenrealms.wikia.com/wiki/Akadi) – Queen of Air – primordial of elemental air and goddess of elemental air, speed, and flying creatures
+* [Akadi](/deities/Akadi.html) – Queen of Air – primordial of elemental air and goddess of elemental air, speed, and flying creatures
 * [Bazim](/deities/Bazim.html)-Gorag – The Lord of the Pandemonium Stone – dedicated to pure chaos. He is chance incarnate, invoked by the powerless, the gamblers, and anyone who has lost hope in anything but an impossible twist of fate.
-* [Grumbar](http://forgottenrealms.wikia.com/wiki/Grumbar) – Earthlord – primordial of elemental earth
-* [Istishia](http://forgottenrealms.wikia.com/wiki/Istishia) – King of Water – primordial of elemental water and deity of purification
-* [Kossuth](http://forgottenrealms.wikia.com/wiki/Kossuth) – Lord of Flames – primordial of elemental fire
+* [Grumbar](/deities/Grumbar.html) – Earthlord – primordial of elemental earth
+* [Istishia](/deities/Istishia.html) – King of Water – primordial of elemental water and deity of purification
+* [Kossuth](/deities/Kossuth.html) – Lord of Flames – primordial of elemental fire
