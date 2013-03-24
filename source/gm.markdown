@@ -1,3 +1,13 @@
+---
+layout: page
+title: "GM Only"
+date: 2009-05-10 14:56
+comments: true
+sharing: true
+footer: true
+---
+[Encounters](/encounters.html)
+
 ## Miscellaneous
 * Puzzle with switches - numbered doors and switches describe the numbers in binary
 * Background on Garnoth
@@ -10,3 +20,4 @@
 * Leaves message to find him elsewhere
 * Upon return to Hommlet, discover Jaroo and Tifalius both murdered
 * Villagers blame party and run them out of town
+
