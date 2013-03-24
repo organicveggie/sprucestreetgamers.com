@@ -3,6 +3,6 @@
 #      Deployment Config     #
 # -------------------------- #
 
-deploy_method: s3
+deploy_default: s3
 s3_bucket: "www.sprucestreetgamers.com"
 
