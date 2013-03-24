@@ -6,6 +6,10 @@ comments: true
 sharing: true
 footer: true
 ---
+## General Locations
+
+* [Faerun](/places/faerun/)
+
 ## Major Locations
 * [Hommlet](/places/hommlet.html)
 * [Hommlet Moathouse](/places/hommlet-moathouse.html)
