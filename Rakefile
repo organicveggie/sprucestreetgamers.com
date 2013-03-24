@@ -11,6 +11,7 @@ require 'octopress/js_asset_manager'
 require 'rake/testtask'
 require 'colors'
 require 'open3'
+require 'aws-sdk'
 
 ### Configuring Octopress:
 ###   Under _config/ you will find:
@@ -60,7 +61,7 @@ EOF
 #      Deployment Config     #
 # -------------------------- #
 
-deploy_method: rsync
+deploy_default: rsync
 EOF
     File.open('_config/deploy.yml', 'w') { |f| f.write user_config_deploy }
   end
@@ -417,6 +418,7 @@ end
 
 # TODO: Need to hook this variable into configurator
 s3_bucket = "www.sprucestreetgamers.com"
+public_dir = 'public'
 
 desc "Configure Amazon S3 for website hosting"
 task :s3_init do
@@ -448,12 +450,19 @@ task :s3 do
   puts "\n## Uploading public directory to bucket \"#{s3_bucket}\""
   files = %x[find #{public_dir} -type f].split
   files.map do |file_path|
-    fd = File.open(file_path)
-    bucket_path = file_path.sub('public/', '')
-    obj = bucket.objects[bucket_path]
-    # TODO: A fresh :generate task will always update resources, need a better
-    # method for preventing full-site uploads on every deploy
-    obj.write(fd) if !obj.exists? || obj.last_modified < fd.mtime
+    fd = nil
+    begin
+      fd = File.open(file_path)
+      bucket_path = file_path.sub('public/', '')
+      obj = bucket.objects[bucket_path]
+      # TODO: A fresh :generate task will always update resources, need a better
+      # method for preventing full-site uploads on every deploy
+      #if !obj.exists? || obj.last_modified < fd.mtime
+        obj.write(fd) 
+      #end
+    ensure
+      fd.close
+    end
   end
 end
 
