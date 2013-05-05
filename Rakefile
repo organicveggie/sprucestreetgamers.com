@@ -312,7 +312,7 @@ task :s3 do
         obj.write(fd) 
       #end
     ensure
-      fd.close
+      fd.close if fd
     end
   end
 end
