@@ -1,7 +1,0 @@
----
-# -------------------------- #
-#      Deployment Config     #
-# -------------------------- #
-
-deploy_default: s3
-s3_bucket: "www.sprucestreetgamers.com"
