@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://www.sprucestreetgamers.com
+title: Spruce Street Gamers
+subtitle: A sinister evil broods
+author: Sean Laurent
 simple_search: http://google.com/search
 description:
 
@@ -27,12 +27,12 @@ email:
 
 # If publishing to a subdirectory as in http://site.com/project set 'root: /project'
 root: /
-permalink: /blog/:year/:month/:day/:title/
+permalink: /:year/:month/:day/:title/
 source: source
 destination: public
 plugins: plugins
 code_dir: downloads/code
-category_dir: blog/categories
+category_dir: categories
 markdown: rdiscount
 rdiscount:
   extensions:
@@ -94,7 +94,14 @@ disqus_short_name:
 disqus_show_comment_count: false
 
 # Google Analytics
-google_analytics_tracking_id:
+google_analytics_tracking_id: UA-12469554-1
 
 # Facebook Like
 facebook_like: false
+
+# -------------------------- #
+#      Deployment Config     #
+# -------------------------- #
+
+deploy_default: s3
+s3_bucket: "www.sprucestreetgamers.com"
