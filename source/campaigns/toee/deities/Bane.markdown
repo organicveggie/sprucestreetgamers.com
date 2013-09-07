@@ -27,5 +27,5 @@ Militaristic nations of humans and goblins serve him and conquer in his name. Ev
 
 ### Servants
 
-* [Tiamat](/deities/Tiamat.html) – god of wealth, greed and envy
-* [Zehir](/deities/Zehir.html) – god of darkness, poison and assassination
+* [Tiamat](/campaigns/toee/deities/Tiamat.html) – god of wealth, greed and envy
+* [Zehir](/campaigns/toee/deities/Zehir.html) – god of darkness, poison and assassination

@@ -6,7 +6,7 @@ comments: true
 sharing: true
 footer: true
 ---
-The Ruby Rod of Asmodeus is a formidable weapon of evil possessed by the archdevil, [Asmodeus](/deities/Asmodeus.html).
+The Ruby Rod of Asmodeus is a formidable weapon of evil possessed by the archdevil, [Asmodeus](/campaigns/toee/deities/Asmodeus.html).
 
 ### Description
 

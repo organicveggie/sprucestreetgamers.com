@@ -11,7 +11,7 @@ footer: true
 
 {% img right /images/Selune.jpg %}
 
-Together with her sister [Shar](/deities/Shar.html), Selune created Abeir-Toril from the cosmic ether and assisted [Chauntea](/deities/Chauntea.html) as she blessed the twin worlds with life. She has infused her spirit into the moon and forever looks down on the world she helped create.
+Together with her sister [Shar](/campaigns/toee/deities/Shar.html), Selune created Abeir-Toril from the cosmic ether and assisted [Chauntea](/campaigns/toee/deities/Chauntea.html) as she blessed the twin worlds with life. She has infused her spirit into the moon and forever looks down on the world she helped create.
 
 Selune’s influence on Toril is felt in the ebb and flow of the tides and in the comforting silver glow of a moonlit night. She brings light to darkness, holding back the tide of evil embodied by her shadowy sister.
 

@@ -16,4 +16,4 @@ Zehir is the evil god of darkness, poison, and assassins. Snakes are his favored
 * Delight in poison, and surround yourself with snakes.
 
 ### Serves
-* [Bane](/deities/Bane.html) – god of murder
+* [Bane](/campaigns/toee/deities/Bane.html) – god of murder

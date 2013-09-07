@@ -16,4 +16,4 @@ Tiamat is the evil god of wealth, greed, and envy. She is the patron of chromati
 * Take what you desire from others. Those who lack the strength to defend their possessions are not worthy to own them.
 
 ### Serves
-* [Bane](/deities/Bane.html) - god of murder
+* [Bane](/campaigns/toee/deities/Bane.html) - god of murder

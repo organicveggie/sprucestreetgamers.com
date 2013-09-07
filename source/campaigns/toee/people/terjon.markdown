@@ -12,7 +12,7 @@ GM ONLY
 
 ## Description
 
-Chief Cleric of [Bahamut](/deities/Bahamut.html) in [Hommlet](/places/hommlet.html). Took over from Canoness Y'dey. Not overly friendly. Stern demeanor.
+Chief Cleric of [Bahamut](/campaigns/toee/deities/Bahamut.html) in [Hommlet](/campaigns/toee/places/hommlet.html). Took over from Canoness Y'dey. Not overly friendly. Stern demeanor.
 
 ## Stats
 Cleric (Level 6)

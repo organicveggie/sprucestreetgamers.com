@@ -16,4 +16,4 @@ The god of change, Avandra delights in freedom, trade, travel, adventure, and th
 * Change is inevitable, but it takes the work of the faithful to ensure that change is for the better.
 
 ### Serves
-* [Corellon](/deities/Corellon.html) – god of spring, beauty and the arts
+* [Corellon](/campaigns/toee/deities/Corellon.html) – god of spring, beauty and the arts

@@ -13,7 +13,7 @@ footer: true
 
 The deity of love takes many forms, including that of Hanali Celanil, long worshiped as a goddess by the eladrin. She is the mistress of all that is beautiful and thrives on the most tender of emotions.
 
-Many deities, from [Amaunator](/deities/Amaunator.html) to [Torm](/deities/Torm.html), have become smitten with the goddess of love, but she remains aloof (though flirtatious), reserving her love for the mortals who revere her name.
+Many deities, from [Amaunator](/campaigns/toee/deities/Amaunator.html) to [Torm](/campaigns/toee/deities/Torm.html), have become smitten with the goddess of love, but she remains aloof (though flirtatious), reserving her love for the mortals who revere her name.
 
 The worship of Sune is prevalent in cities and among the aristocracy, where people have the time to give proper attention to values such as romantic love and the preservation of beauty.
 
@@ -25,4 +25,4 @@ She is also known as Lady Firehair for her lustrous red hair that drapes down to
 
 ### Servants
 
-* [Sehanine](/deities/Sehanine.html) – goddess of the moon and autumn
+* [Sehanine](/campaigns/toee/deities/Sehanine.html) – goddess of the moon and autumn

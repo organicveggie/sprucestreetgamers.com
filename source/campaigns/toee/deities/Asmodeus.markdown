@@ -21,6 +21,6 @@ He is typically depicted as the strongest, most cunning, and most handsome of al
 
 {% img right /images/asmodeus.jpg %}
 
-Asmodeus is never seen without his [Ruby Rod of Asmodeus](/items/Ruby-Rod-of-Asmodeus.html), a glowing rod of pure ruby that serves as a badge of office as well as having several powerful offensive and defensive powers. The Rod allows Asmodeus to attack with elemental forces, force his enemies to cower in fear, or cover himself with a field which heals and protects him.
+Asmodeus is never seen without his [Ruby Rod of Asmodeus](/campaigns/toee/items/Ruby-Rod-of-Asmodeus.html), a glowing rod of pure ruby that serves as a badge of office as well as having several powerful offensive and defensive powers. The Rod allows Asmodeus to attack with elemental forces, force his enemies to cower in fear, or cover himself with a field which heals and protects him.
 
 Like the other Archdevils of Baator, Asmodeus has the ability to cast many spells at will, and is nearly impossible to hurt without the use of very powerful holy magic weapons. Asmodeus’ Ruby Rod allows him to use several powerful offensive and defensive spells at will. In addition, Asmodeus has the power to alter the form of lesser devils, including the other lords of Baator. He transformed Mammon into a humanoid/serpent hybrid, and cursed Baalzebul with the form of a gigantic slug with tiny, useless arms.

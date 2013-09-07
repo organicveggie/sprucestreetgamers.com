@@ -6,4 +6,4 @@ comments: true
 sharing: true
 footer: true
 ---
-Village Elder in [Hommlet](/places/hommlet.html). Sweet old man.
+Village Elder in [Hommlet](/campaigns/toee/places/hommlet.html). Sweet old man.

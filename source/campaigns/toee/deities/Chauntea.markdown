@@ -18,10 +18,10 @@ The Great Mother is revered by any who depend on the land for their livelihood. 
 
 Chauntean priests pray to the Great Mother at sunset. For her favor, she asks that her faithful spend every effort preserving the natural cycle of growth and harvest. The devoted are divided into two sects: the pastorals, who minister to farmers and villagers, and the true shapers, solitary druids who find truth in the wild lands yet to be tamed.
 
-Chauntea is the goddess of life and a parallel deity to [Silvanus](/deities/Silvanus.html), who is considered the god of wild nature, whilst Chauntea herself is seen as being the embodiment of all things agrarian or agriculture. She is a goddess of agriculture, plants cultivated by humans, farmers, gardeners, and summer.
+Chauntea is the goddess of life and a parallel deity to [Silvanus](/campaigns/toee/deities/Silvanus.html), who is considered the god of wild nature, whilst Chauntea herself is seen as being the embodiment of all things agrarian or agriculture. She is a goddess of agriculture, plants cultivated by humans, farmers, gardeners, and summer.
 
 ### Typical Worshipers
 Though she has a diverse collection of followers, Chauntea is fanatically worshiped by peasants, servants, Druids, gardeners, and any others who earn pay from working on farmland.
 
 ### Servants
-* [Pelor](/deities/Pelor.html) – god of summer
+* [Pelor](/campaigns/toee/deities/Pelor.html) – god of summer

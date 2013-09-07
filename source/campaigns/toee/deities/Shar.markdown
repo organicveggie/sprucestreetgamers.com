@@ -27,4 +27,4 @@ Reveal secrets only to fellow members of the faithful. Never follow hope or turn
 
 ### Servants
 
-* [Vecna](/deities/Vecna.html) – goddess of the undead, necromancy and secrets
+* [Vecna](/campaigns/toee/deities/Vecna.html) – goddess of the undead, necromancy and secrets

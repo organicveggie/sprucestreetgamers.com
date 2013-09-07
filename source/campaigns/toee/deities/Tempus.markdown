@@ -20,5 +20,5 @@ His battleguards counsel generals on the rules of engagement and inspire courage
 Also known as The Lord of Battles, Tempus focuses on honorable battle, forbidding cowardice and encouraging the use of force of arms to settle disputes.
 
 ### Servants
-* [Kord](/deities/Kord.html) – storm god and lord of battle
-* [Red Knight](/deities/Red-Knight.html) - exarch of strategy and war planning
+* [Kord](/campaigns/toee/deities/Kord.html) – storm god and lord of battle
+* [Red Knight](/campaigns/toee/deities/Red-Knight.html) - exarch of strategy and war planning

@@ -17,7 +17,7 @@ Druids of Silvanus say their prayers at sundown and set aside the days of Greeng
 
 Silvanus teaches his druids to watch from the protection of the woods, not to judge too quickly, and to preserve the balance of life and death, growth and decay.
 
-Silvanus, one of the most prominent and oldest deities in Faerun, and the wilder counterpart to [Chauntea](/deities/Chauntea.html), the Earthmother. His worshipers protect places of nature from the encroachment of civilization with vigor and are implacable foes of industrious peoples.
+Silvanus, one of the most prominent and oldest deities in Faerun, and the wilder counterpart to [Chauntea](/campaigns/toee/deities/Chauntea.html), the Earthmother. His worshipers protect places of nature from the encroachment of civilization with vigor and are implacable foes of industrious peoples.
 
 ### Servants
-* [Melora](/deities/Melora.html) – goddess of the wilderness and sea
+* [Melora](/campaigns/toee/deities/Melora.html) – goddess of the wilderness and sea

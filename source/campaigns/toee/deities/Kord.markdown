@@ -16,4 +16,4 @@ Kord is the storm god and the lord of battle. He revels in strength, battlefield
 * Prove your might in battle to win glory and renown.
 
 ### Serves
-* [Tempus](/deities/Tempus.html) – god of battle
+* [Tempus](/campaigns/toee/deities/Tempus.html) – god of battle

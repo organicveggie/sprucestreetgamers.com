@@ -13,6 +13,6 @@ footer: true
 
 Deity of law and justice and part of The Triad. His dogma is primarily concerned with the punishment of wrong-doers, and the general furthering of law and good in the world.
 
-At some point between 1374 and 1479 DR, Tyr died fighting off a demonic invasion of Celestia; his portfolio of justice was subsequently absorbed by [Bahamut](/deities/Bahamut.html) and [Torm](/deities/Torm.html).
+At some point between 1374 and 1479 DR, Tyr died fighting off a demonic invasion of Celestia; his portfolio of justice was subsequently absorbed by [Bahamut](/campaigns/toee/deities/Bahamut.html) and [Torm](/campaigns/toee/deities/Torm.html).
 
 {% img center /images/tyr.jpg %}

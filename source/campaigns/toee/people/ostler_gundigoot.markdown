@@ -6,7 +6,7 @@ comments: true
 sharing: true
 footer: true
 ---
-Proprietor of the [Inn of the Welcome Wench](/places/inn-of-the-welcome-wench.html).
+Proprietor of the [Inn of the Welcome Wench](/campaigns/toee/places/inn-of-the-welcome-wench.html).
 
 Middle-aged. Strong germanic accent.
 

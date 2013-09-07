@@ -8,7 +8,7 @@ footer: true
 ---
 On the 29th of Tarsakh, in the Year of Blue Fire (1385 DR), a magical disaster called the Spellplague changed the face of Toril, its lost sibling Abeir, and even the planes themselves. Flesh, stone, magic, space, and perhaps even the flow of time were infected and changed.
 
-Most scholars believe that the Spellplague was the direct result of the murder of the goddess Mystra at the hands of [Cyric](/deities/Cyric.html), which [Shar](/deities/Shar.html) engineered. This popular theory holds that magic was bound so long in Mystra's Weave that, when the goddess died, it spontaneously and ruinously burst its bonds. Areas of wild magic, already outside the constraints of the Weave, touched off first, but the plague raged on and on in ever-widening spirals, devastating some places and leaving others untouched. It even tore through the realms of demons, gods, and lost souls before the end.
+Most scholars believe that the Spellplague was the direct result of the murder of the goddess Mystra at the hands of [Cyric](/campaigns/toee/deities/Cyric.html), which [Shar](/campaigns/toee/deities/Shar.html) engineered. This popular theory holds that magic was bound so long in Mystra's Weave that, when the goddess died, it spontaneously and ruinously burst its bonds. Areas of wild magic, already outside the constraints of the Weave, touched off first, but the plague raged on and on in ever-widening spirals, devastating some places and leaving others untouched. It even tore through the realms of demons, gods, and lost souls before the end.
 
 Ancient realms that had passed beyond easy reach of the world were pulled back, such as the Feywild (called Faerie in ancient days). The Abyss, home of demons, fell through the planes, unleashing swarming evil before finding its new home at the bottom of the Elemental Chaos. Even the long-forgotten sibling world Abeir burned in the plague of magic, despite having been cut off from Toril for tens of millennia. Portions of Abeir’s landscape were transposed with areas of Toril in the disaster. Such landscapes included their living populations, bringing realms such as Akanûl and Tymanther to Faerun’s face.
 
@@ -29,9 +29,9 @@ Pockets of active Spellplague still exist today, most notoriously in the Plaguew
 ## Effects on Creatures
 A creature, object, or spell touched by the Spellplague usually dissolved into glowing, dissipating ash. Places hit in the first few hours of the disaster twisted into mad nightmares: delicate structures of mind-skewing dimensions, half-melted cities, and shattered physical and magical laws. Sometimes living creatures survived but were hideously mutated. In the worst cases, they were altered, twisted, or fused to other creatures (regardless of species) or even to portions of the landscape. Most such mewling horrors perished within a few days.
 
-A few things changed by the Spellplague survived only by accepting the new reality. Living creatures so affected are differentiated into two broad groups: [plaguechanged](/places/faerun/plaguechanged.html) and [spellscarred](/places/faerun/spellscars.html).
+A few things changed by the Spellplague survived only by accepting the new reality. Living creatures so affected are differentiated into two broad groups: [plaguechanged](/campaigns/toee/places/faerun/plaguechanged.html) and [spellscarred](/campaigns/toee/places/faerun/spellscars.html).
 
 ## Aftermath
 By 1395 DR, the majority of the effects of the Spellplague had come to an end and most arcane magic had returned to normal.
 
-By 1479 DR areas of Toril still affected by the Spellplague are referred to as [Plaguelands](/places/faerun/plaguelands.html).
+By 1479 DR areas of Toril still affected by the Spellplague are referred to as [Plaguelands](/campaigns/toee/places/faerun/plaguelands.html).

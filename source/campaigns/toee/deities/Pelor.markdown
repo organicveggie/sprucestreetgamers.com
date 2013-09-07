@@ -16,4 +16,4 @@ God of the sun and summer, Pelor is the keeper of time. He supports those in nee
 
 ### Serves
 
-* [Chauntea](/deities/Chauntea.html) – goddess of agriculture
+* [Chauntea](/campaigns/toee/deities/Chauntea.html) – goddess of agriculture

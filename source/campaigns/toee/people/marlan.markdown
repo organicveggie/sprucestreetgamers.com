@@ -6,4 +6,4 @@ comments: true
 sharing: true
 footer: true
 ---
-Tailor in [Hommlet](/places/hommlet.html).
+Tailor in [Hommlet](/campaigns/toee/places/hommlet.html).

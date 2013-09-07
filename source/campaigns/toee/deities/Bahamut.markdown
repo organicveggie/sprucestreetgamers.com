@@ -20,6 +20,6 @@ Called the Platinum Dragon, Bahamut is the god of justice, protection, nobility,
 * Protect the weak, liberate the oppressed, and defend just order.
 
 ### Serves
-* [Torm](/deities/Torm.html) – god of law, truth and loyalty
+* [Torm](/campaigns/toee/deities/Torm.html) – god of law, truth and loyalty
 
 {% img center /images/bahamut.jpg %}

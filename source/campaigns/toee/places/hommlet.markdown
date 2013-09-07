@@ -7,9 +7,9 @@ sharing: true
 footer: true
 ---
 ### People
-* [Marlan](/people/marlan.html) – the tailor
-* [Jaroo Ashstaff](/people/jaroo_ashstaff.html) – runs the Grove
-* [Tifalius](/people/tifalius.html) – village elder
-* [Gowron](/people/gowron.html) – carpenter.
-* [Ostler Gundigoot](/people/ostler_gundigoot.html) – proprietor of Inn of the Welcome Wench
-* [Brother Smythe](/people/brother_smythe.html) – smith
+* [Marlan](/campaigns/toee/people/marlan.html) – the tailor
+* [Jaroo Ashstaff](/campaigns/toee/people/jaroo_ashstaff.html) – runs the Grove
+* [Tifalius](/campaigns/toee/people/tifalius.html) – village elder
+* [Gowron](/campaigns/toee/people/gowron.html) – carpenter.
+* [Ostler Gundigoot](/campaigns/toee/people/ostler_gundigoot.html) – proprietor of Inn of the Welcome Wench
+* [Brother Smythe](/campaigns/toee/people/brother_smythe.html) – smith

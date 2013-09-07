@@ -16,4 +16,4 @@ Erathis is the god of civilization. She is the muse of great invention, founder 
 * Seek out new ideas, new inventions, new lands to inhabit, new wilderness to conquer. Build machines, build cities, build empires.
 
 ### Serves
-* [Oghma](/deities/Oghma.html) – god of knowledge
+* [Oghma](/campaigns/toee/deities/Oghma.html) – god of knowledge

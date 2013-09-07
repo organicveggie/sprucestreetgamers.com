@@ -16,4 +16,4 @@ Torog is the evil god of the Underdark, patron of jailers and torturers. Common 
 * Bind tightly what is in your charge, and restrain those who wander free.
 
 ### Serves
-* [Lolth](/deities/Lolth.html) – goddess of shadows, lies and spiders
+* [Lolth](/campaigns/toee/deities/Lolth.html) – goddess of shadows, lies and spiders

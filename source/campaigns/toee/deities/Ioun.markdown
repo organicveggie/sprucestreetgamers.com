@@ -16,4 +16,4 @@ Ioun is the god of knowledge, skill, and prophecy. Sages, seers, and tacticians 
 * Be watchful at all times for the followers of Vecna, who seek to control knowledge and keep secrets. Oppose their schemes, unmask their secrets, and blind them with the light of truth and reason.
 
 ### Serves
-* [Oghma](/deities/Oghma.html) – god of knowledge
+* [Oghma](/campaigns/toee/deities/Oghma.html) – god of knowledge

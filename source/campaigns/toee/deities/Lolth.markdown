@@ -29,5 +29,5 @@ Lolth is the chaotic evil god of shadow, lies, and spiders. As the patron of the
 
 ### Servants
 
-* [Torog](/deities/Torog.html) – god of the Underdark
+* [Torog](/campaigns/toee/deities/Torog.html) – god of the Underdark
 

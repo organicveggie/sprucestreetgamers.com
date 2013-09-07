@@ -20,5 +20,5 @@ When Oghma’s Chosen, Grand Patriarch Cullen Kordamant, disappeared more than 1
 Orthodox priests are known as lorekeepers; the Oghmanytes call themselves namers. Both maintain expansive libraries and greedily pursue written texts and oral histories from across Toril.
 
 ### Servants
-* [Erathis](/deities/Erathis.html) – god of civilization
-* [Ioun](/deities/Ioun.html) – god of knowledge, skill and prophecy
+* [Erathis](/campaigns/toee/deities/Erathis.html) – god of civilization
+* [Ioun](/campaigns/toee/deities/Ioun.html) – god of knowledge, skill and prophecy

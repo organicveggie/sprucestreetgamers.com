@@ -15,4 +15,4 @@ The name of the goddess of death is long forgotten, but she is called the Raven 
 * Watch for the cults of Orcus and stamp them out whenever they arise. The Demon Prince of the Undead seeks to claim the Raven Queen’s throne.
 
 ### Serves
-* [Kelemvor](/deities/Kelemvor.html) – Lord of the Dead
+* [Kelemvor](/campaigns/toee/deities/Kelemvor.html) – Lord of the Dead

@@ -8,13 +8,13 @@ footer: true
 ---
 ## General Locations
 
-* [Faerun](/places/faerun/)
+* [Faerun](/campaigns/toee/places/faerun/)
 
 ## Major Locations
-* [Hommlet](/places/hommlet.html)
-* [Hommlet Moathouse](/places/hommlet-moathouse.html)
-* [Nulb](/places/nulb.html)
-* [Teshwave](/places/teshwave.html)
+* [Hommlet](/campaigns/toee/places/hommlet.html)
+* [Hommlet Moathouse](/campaigns/toee/places/hommlet-moathouse.html)
+* [Nulb](/campaigns/toee/places/nulb.html)
+* [Teshwave](/campaigns/toee/places/teshwave.html)
 
 ## Minor Locations
-* [Shadowdale](/places/shadowdale.html)
+* [Shadowdale](/campaigns/toee/places/shadowdale.html)

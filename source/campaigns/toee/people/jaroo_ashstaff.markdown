@@ -8,6 +8,6 @@ footer: true
 ---
 Tall and lanky with long legs, Jaroo looks like an older hippie with long wavy brown hair (starting to grey) and a bushy beard. Late 30s, early 40s. Long flowing robes. Sounds like a stoned surfer. Friendly with big belly-shaking laugh.
 
-Runs the Grove in [Hommlet](/places/hommlet.html). Druid?
+Runs the Grove in [Hommlet](/campaigns/toee/places/hommlet.html). Druid?
 
 Knows Starym Menzall, a famous Eladrin adventurer known to Feylinn's mentor. Apparently from the Moonshae Isles?

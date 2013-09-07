@@ -16,4 +16,4 @@ Melora is the god of the wilderness and the sea. She is both the wild beast and 
 * Do not fear or condemn the savagery of nature. Live in harmony with the wild.
 
 ### Serves
-* [Silvanus](/deities/Silvanus.html) – protector of wild places
+* [Silvanus](/campaigns/toee/deities/Silvanus.html) – protector of wild places

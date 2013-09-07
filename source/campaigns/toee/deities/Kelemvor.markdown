@@ -15,8 +15,8 @@ Also known as the Judge of the Damned, Kelemvor is the god of death and the dead
 
 {% img right /images/kelemvor.jpg %}
 
-Fair yet cold, Kelemvor is the god of death and the dead—the most recent deity to hold this position, following in the footsteps of Jergal, Myrkul, and [Cyric](/deities/Cyric.html). Unlike these other deities, whose rule as gods of the dead made the afterlife an uncertain and fearful thing, Kelemvor urges knowledge that death is a natural part of life and should not be feared as long as it is understood.
+Fair yet cold, Kelemvor is the god of death and the dead—the most recent deity to hold this position, following in the footsteps of Jergal, Myrkul, and [Cyric](/campaigns/toee/deities/Cyric.html). Unlike these other deities, whose rule as gods of the dead made the afterlife an uncertain and fearful thing, Kelemvor urges knowledge that death is a natural part of life and should not be feared as long as it is understood.
 
 ### Servants
 
-* [The Raven Queen](/deities/The-Raven-Queen.html) – goddess of death
+* [The Raven Queen](/campaigns/toee/deities/The-Raven-Queen.html) – goddess of death

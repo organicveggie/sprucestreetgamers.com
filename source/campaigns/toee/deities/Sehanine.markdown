@@ -16,4 +16,4 @@ God of the moon and autumn, Sehanine is the patron of trickery and illusions. Sh
 * Seek new horizons and new experiences, and let nothing tie you down.
 
 ### Serves
-* [Selune](/deities/Selune.html) – goddess of the moon
+* [Selune](/campaigns/toee/deities/Selune.html) – goddess of the moon
